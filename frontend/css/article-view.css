@@ -1,0 +1,33 @@
+.header.header__article{
+    height : 450px;
+}
+
+.header__article .header__texture{
+
+    background: url("../img/img1.jpg") center no-repeat;
+    background-size: cover;
+
+}
+
+.article__view-container{
+    width: 60%;
+    margin: auto;
+    padding-top: 20px;
+
+}
+
+.article__view-title{
+    border-bottom: 2px solid #9E3427;
+    line-height: 40px;
+    font-weight: 700px;
+}
+
+.article__view-content{
+    padding-top: 30px;
+    text-align: justify;
+    font-weight: 300px;
+    padding-bottom: 30px;
+    font-size: 16px;
+    line-height: 25px;
+
+}
